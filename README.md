@@ -20,12 +20,12 @@ Projeto utilizado para o treinamento de nível básico em desenvolvimento web co
   * Implementação de validação para o formulário utilizando jQuery
   * Implementação de comportamento para o formulário utilizando jQuery
     * Caso o tipo do carro seja esporte mostrar um radio para escolher roda de liga ou ferro
-  * Implementar submissão do formulário serializado e mostrar no console a saída JSON que será consumida depois no back  
+  * Implementar submissão do formulário serializado e mostrar no console a saída JSON que será consumida posteriormente no back  
   * Criação e estilização de uma listagem dinâmica gerada a partir de um objeto JSON
   * Criação de um mecanismo de navegação entre o formulário e a listagem
 * *Módulo 3* - Orientação à objetos na prática: 
-  * Criação das classes de objetos utilizadas para mapear o usuário cadastrado no formulário criado no módulo anterior
-  * Explicação e demonstração sobre generalização, erança e polimorfismo sobre as classes anteriores
+  * Criação das classes de objetos utilizadas para mapear o carro cadastrado no formulário desenvolvido no módulo anterior
+  * Explicação e demonstração sobre generalização, herança e polimorfismo utilizando as classes anteriores
   * Criação de um end-point para receber a submissão do formulário, mapeada no objeto modelo de dados e imprimir no console
 * *Módulo 4* - Banco de dados básico
   * Contrução das tabelas do domínio da aplicação (Carros, Marcas e Pessoas)
