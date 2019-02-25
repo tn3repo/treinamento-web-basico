@@ -39,5 +39,5 @@ Projeto utilizado para o treinamento de nível básico em desenvolvimento web co
     * Mostrar os métodos padrões herdados da interface de CRUD do spring (os métodos básicos de CRUD), abordar/explicar porque não é necessário declará-los, Demonstrar como podem ser sobrescritos/personalizados
 * *Módulo 6* - Integrando o back-end e o front-end
   * Ajustar a listagem para consumir os carros do back-end 
-  * Revisar o fluxo de inserção para
+  * Revisar o fluxo de inserção
   * Criar os fluxos de edição e exclusão
